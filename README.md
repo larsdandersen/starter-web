@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 
 ## Deployment 
 
-lala
+lala DEPLOYMENT ER GODT
 
 ##How to contribute
 
